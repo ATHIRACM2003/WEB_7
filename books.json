@@ -1,0 +1,47 @@
+{
+    "book":[
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J.K. Rowling",
+            "year": 1998,
+            "price": 700,
+            "rating": 4.5
+        },
+        {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "year": 1954,
+            "price": 580,
+            "rating": 4.8
+        },
+        {
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "year": 2008,
+            "price": 870,
+            "rating": 4.2
+        },
+        {
+            "title": "Percy Jackson and The Sea of Monsters",
+            "author": "Rick Riordan",
+            "year": 2006,
+            "price": 430,
+            "rating": 4.6
+        },
+        {
+            "title": "The vampire Diaries",
+            "author": "L.J. Smith",
+            "year": 1991,
+            "price": 620,
+            "rating":4.7
+        },
+        {
+            "title": "Gulliver Travels",
+            "author": "Jonathan Swift",
+            "year": 1726,
+            "price": 450,
+            "rating": 4.9
+        }
+
+    ]
+}
